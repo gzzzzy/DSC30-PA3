@@ -3,7 +3,7 @@ import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
 
-public class SortsTester {
+public class SortsTest {
     @Test
     public void mergeSortTest() {
         int[] arr1={1,2,3,4,5};
