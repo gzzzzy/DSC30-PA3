@@ -1,4 +1,3 @@
-package DSC30.PA3;
 
 import static org.junit.Assert.assertArrayEquals;
 
